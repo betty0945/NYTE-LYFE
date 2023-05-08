@@ -1,0 +1,89 @@
+/*
+    style.css
+
+    This is the page that will have all the CSS for our project site.
+*/
+
+/* ========================================================= */
+/*  IMPORTS for fonts */
+
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
+/* font-family: 'Source Code Pro', monospace; */
+
+
+<style>@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+</style>font-family: 'Jost',
+sans-serif;
+
+/* ========================================================= */
+/*  Page Level Style Rules font-family: 'Jost', sans-serif;
+ */
+*/ */<style>@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&family=Gwendolyn:wght@400;700&family=Jost&display=swap');
+</style <style>@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@400;700&family=Jost&display=swap');
+
+</style>h4 {
+    font-family: 'Great Vibes', cursive;
+}
+
+/* --------------------------------------------------------- */
+/* body styles */
+
+body {
+    font-family: 'Jost', sans-seri;
+
+  background-color: powderblue;
+    
+}
+
+Carousel Caption - Adjust the position */ .carousel-caption {
+    position: absolute;
+    right: 15%;
+    bottom: 1.25rem;
+    left: 15%;
+    padding-top: 0 rem;
+    padding-bottom: 0rem;
+    color: #9c6644;
+    text-align: center;
+}
+
+/* --------------------------------------------------------- */
+/*  Container and Spacer Rules */
+.bg-yellow {
+    background-color: #a4416f;
+
+    .bg-black {
+        background-color: #ab1285;
+
+    }
+
+    .color {
+
+        text-decoration-color: #9c6644
+    }
+
+    /* --------------------------------------------------------- */
+    /* Color Rules */
+
+
+    /* --------------------------------------------------------- */
+    /* Social Media Links */
+
+    /* size the social media icons in the footer */
+
+    .footer-social a {
+        color: white;
+        font-size: 1.5em;
+        text-decoration: none;
+    }
+
+    .gmap-iframe {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+
+    /* ========================================================= */
+    /* Extending BS Styling Rules */
